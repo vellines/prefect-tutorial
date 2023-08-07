@@ -1,2 +1,2 @@
-# prefect-tutorial
-Tutorial from Prefect docs
+# Prefect Tutorial
+Repo for working through the Prefect tutorial.
